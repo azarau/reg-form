@@ -1,0 +1,22 @@
+{
+  "name": "azra-registraion-form",
+  "version": "4.0.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "4.11.1",
+    "clsx": "latest",
+    "firebase": "8.1.1",
+    "next": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "post-update": "echo \"codesandbox preview only, need an update\" && yarn upgrade --latest"
+  },
+  "keywords": [],
+  "description": ""
+}
